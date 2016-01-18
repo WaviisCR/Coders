@@ -1,0 +1,18 @@
+
+p{
+	position: absolute;
+	margin-top: -25px;
+	right: 10px;
+	color: #fff;
+}
+.img{
+	display:inline-block;
+	position: relative;
+	margin-right: 10px;
+}
+
+.line{
+	border-top: 3px solid;
+	width: 60px;
+	margin-bottom: 25px;
+}
